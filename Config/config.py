@@ -6,5 +6,6 @@ class TestData:
     driver = webdriver.Chrome()
     BASE_URL = "https://www.facebook.com/"
     USER_NAME = "0326839977"
-    PASSWOD = "adidaslovenike"
+    PASSWORD = "adidaslovenike"
+    LOGIN_PAGE_TITLE = "Facebook - Đăng nhập hoặc đăng ký"
 
